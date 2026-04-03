@@ -24,7 +24,7 @@ Menurut Mechele Foucault penggunaan teknologi menyebabkan manusia merasa selalu 
 
 Pada intinya jika teknologi sudah mengontrol kehidupan sehari-hari manusia dampaknya manusia lebih takut berbuat kesalahan di dunia digital dibandingkan di dunia nyata, hal ini terjadi karena manusia tidak/belum bisa menggunakan teknologi dengan bijak dan tahu batas agar tidak terjerumus ke dalam hal negatif. Pada akhirnya media sosial membuat kita tidak bebas berekspresi dan selalu menjaga image yang menyebabkan kita lelah karena memikirkan hal-hal yang tidak perlu.
 
-### **Daftar Pustaka**
+### **Referensi**
 
 Media, L. D. (2023, November 13). Michel Foucault on the Digital Panopticon: Artificial Intelligence, Privacy, and Wearable…. Medium. https://lilacdraccus.medium.com/michel-foucault-on-the-digital-panopticon-artificial-intelligence-privacy-and-wearable-5cad91926ff4
 

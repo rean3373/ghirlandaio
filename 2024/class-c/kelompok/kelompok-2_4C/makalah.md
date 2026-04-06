@@ -174,6 +174,8 @@ Baudrillard, Jean. 1994. Simulacra and simulation Ann Arbor: University of Michi
 
 Baudrillard, Jean. 1981. Simulacres et Simulation. Paris: Editions Galilee. 
 
+Mythologies (French: Mythologies, lit. 'Mythologies') is a 1957 book by Roland Barthes
+
 
 
 

@@ -13,6 +13,12 @@ Budaya *hacking* pada masa Al Alcorn adalah suatu bentuk kreativitas untuk menem
 
 Jadi pada saat Al Alcorn menerapkan *hacking* untuk merancang permainan pong, dia sebenarnya tidak punya panduan untuk membuat game tersebut, tetapi dia selalu mencoba bereksperimen untuk membuat game, kenapa? karena prinsip dia adalah "coba dulu, urusan hasil mah nanti". Karena dia sering menghack/mengotak-ngatik si permainan pong ini, yang awalnya bola pong ini hanya bisa memantul lurus, kemudian akhirnya bola pong ini bisa memantul sesuai posisi. Dan permainan pong ini awalnya hanya iseng-iseng saja untuk latihan dan akhirnya menjadi game yang terkenal di seluruh dunia.
 
+## Kesimpulan
+
+Jadi makna *hacking* berbeda dengan persepsi pada masa sekarang ini, yang dimana mengatakan bahwa *hacking* adalah tindakan negatif. Justru pada awalnya, *hacking* merupakan pondasi penting dalam perkembangan teknologi digital yang kita pakai saat ini.  
+
+
+
 
 
 

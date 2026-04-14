@@ -56,15 +56,43 @@ Ranganathan secara tidak langsung memberikan gambaran analogi mengenai landasan 
 era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan". ia tidak hanya lagi hanya menyimpan pengetahuan, tetapi secara proaktif memahami kebutuhan penggunanya secara cerdas.
   ## 2.2 Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
   ## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
-  Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dn menyebarluaskan pengetahuan secara jujurdan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informaso, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
+  Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dan menyebarluaskan pengetahuan secara jujur dan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informasi, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
 
 a.	Dasar Utama Perlindungan Informasi (triad CIA)
   Lembaga informasi digital harus menjamin tiga tujuan prinsip keamanan yang dikenal sebagai triad CIA :
   1. Kerahasiaan (Confidentiality): Menjamin bahwa informasi sensitif, seperti data pribadi anggota atau dokumen terbatas, tidak dapat diperoleh oleh pihak tanpa izin
   2. Integritas (Integrity): Mencegah atau mendeteksi modifikasi data yang tidak sah untuk memastikan bahwa catatan arsip atau koleksi digital tetap asli dan tidak dipalsukan
   3. Ketersediaan (Availability): Memastikan bahwa sistem perpustakaan dan datanya tetap dapat diakses oleh pengguna yang berwenang saat dibutuhkan tanpa gangguan yang tidak sah.
-     
 
+## 2.5 Vektor dasar keamanan siber bagi Perpustakaan atau Arsip digital
+Vektor keamanan siber bagi perpustakaan digital atau arsip digital mengacu kepada saranan yang digunakan oleng ancaman siber tersebut, untuk pertahanan sistem informasi dan merusak aset digital.
+
+  1. Vektor Malware
+
+      Malware merupakan perangkat lunak berbahaya yang mencakup kategori ancaman luas serta dirancang untuk menyusup serta menganggu sistem komputer, merusak integritas data dan mencuri informasi sensitif. Ada jenis-jenis malware umum, yaitu Virus, worm, trojan, ransomware dan spyware.
+     Ransomware merupakan suatu program yang merusak komputer lalu mengunci akses berkas dari pengguna. Jika pengguna ingin mengakses kembali berkas tersebut, maka pengguna diharuskan untuk transaksi kepada alamat yang diminta. Salah satu contohnya, ada kasus yang menyerang perpustakaan digital. Pada tahun 2017, ada kejadian peretasan terhadap 700 komputer diperpustakaan umum St. Louis, Amerika Serikat. Untuk membuka server yang sudah diretas, perpustakaan umum dimintai untuk menyerahkan sejumlah bitcoin kepada sang peretas, namun ditolak oleh perpustakaan disebabkan menurut penyelidikan yang sudah dilakukan oleh FBI, mata uang bitcoin adalah mata uang online yang sulit ditelusuri keberadaan. Maka solusi yang dilakukan perpustakaan tersebut adalah menghapus keseluruhan sistem komputer lalu dibuat ulang dengan memakan waktu cukup lama.
+     
+   3. Vektor Phishing
+    
+      Serangan ini menggunakan taktik penipuan dengan membujuk individu agar membocorkan informasi rahasia. Phishing ini sering kali melibatkan email, pesan instan, atau situs web palsu yang menyamar jadi entitas sah. Dalam Phishing ini, pelaku melakukan suatu upacaya untuk menatik staff atau pemustaka untuk memberikan informasi pribadi mereka atau akses login secara sukarela melalui komunikasi digital menipu (contohnya komunikasi melalui telepon atau aplikasi chat).
+   4. Vektor Inside Threat
+
+       Ancaman dari dalam biasanya muncul dari individu dalam suatu organisasi yang menyalahgunakan hak akses yang diberikan untuk membahayakan keamanan baik, secara sengaja maupun tidak sengaja. Resiko dari vektor ini terdapat dari dalam (staf, mitra atau vendor) sebab dapat menyalah gunakan akses istimewa mereka untuk sabotase atau bahkan pencurian data.
+    4. Denial of service (Dos) dan Distributed Denial of service (DdoS)
+
+        Bertujuan untuk menganggu ketersediaan layanan daring dengan melimpahkan sistem atay jaringan arus yang berbahaya. Cara melimpahkannya yaitu kepada server perpustakaan dengan lalu lintas data yang sangat besar sehingga membuat layanan lumpuh dan tidak dapat digunakan atau diakses oleh para pengguna. 
+
+ ## 2.6 faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital
+   1. Faktor Insfrastruktur teknologi
+    
+      Faktor ini merupakan faktor utama yang harus ditingkatkan untuk penerapan sistem perlindungan yang berlapis bahkan meliputi enskripsi ganda, baik untuk data transit ataupun data tersimpan dengan menggunakan algoritma standar industri. Pengendalian akses juga harus diperketat dengan membatasi hak akses berdasarkan peran pengguna, serta menggunakan autentikasi ganda untuk mencegah akses digital, meski kata sandi telah bocor. Selain itu, pemanfaatan teknologi seperti Kecerdasan Buatan (AI) untuk mendeteksi ancaman.
+   2. Faktor sumber daya manusia (SDM)
+   
+      Faktor ini sering kali menjadi titik kelemahan dalam keamanan siber dan harus ditingkatkan melalui program kesadaran keamanan dan peningkatan literasi digital secara rutin, baik bagi pustakawan atau pemustaka itu sendiri. Untuk pustakawan perlu menguasai keterampilan IT seperti pemrograman, desain basis data dan manajemen informasi untuk menjaga kualitas dan keamanan rekod
+    
+   3. Faktor tata kelola dan kebijakan
+
+      Faktor ini merupakan di mana institusi perlu mengangkat standar internasional seperti ISO/IEC 27001 atau kerangka kerja NIST sebagai prosedur baku dalam manajemen resiko dan keamanan informasi. Hal ini juga perlu dijalankan bersama Standarisasi Prosedur Operasional (SOP) yang mencakup klasifikasi arsip, jadwal retensi, penggunaan audit untuk melacak aktivitas pengguna dan disiplin dalam pencacatan metadata untuk menjagaa utentisistas 
    
 
 
